@@ -20,7 +20,7 @@ h2{
 
 p{
 	font-size: 24px;
-	padding-left: 15px;
+	/*padding-left: 15px; */
 	padding-bottom: 15px;
 }
 
@@ -102,7 +102,7 @@ footer p{
 	padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
-	padding-left: none;
+	padding-left: 0px;
 }
 
 
